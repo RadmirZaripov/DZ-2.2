@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int check = 100;
-        int replenishment = 11git00;
+        int replenishment = 11;
 
         if (replenishment > 100) {
             int bonus = replenishment / 100;
